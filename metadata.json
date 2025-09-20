@@ -1,0 +1,5 @@
+{
+  "name": "RiceThrift",
+  "description": "A marketplace for Rice University students to buy and sell clothes and other items. Features personalized recommendations, item categorization by college, price, and distance, real-time chat, and a user profile system.",
+  "requestFramePermissions": []
+}
